@@ -7,5 +7,6 @@ public class Main {
 	Student s1 =new Student();
         System.out.println(s1.getIsim());
         System.out.println(p1.getIsim());
+        System.out.println(p1.getIsim());
     }
 }
